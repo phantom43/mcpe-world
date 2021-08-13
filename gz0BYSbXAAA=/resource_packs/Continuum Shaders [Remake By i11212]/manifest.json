@@ -1,0 +1,18 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Continuum Shaders Remake By i11212\nYoutubeChannel:i1_1212 Channel",
+      "name" : "Continuum Shaders Remake By [i11212]",
+      "uuid" : "42759689-1426-4de2-aa24-efb2a773fcf4",
+      "version" : [ 3, 1, 0 ]
+   },
+   "min_engine_version" : [ 1, 10, 0, 7 ],
+   "modules" : [
+      {
+         "description" : "Continuum Shaders Remake By i11212\nYoutubeChannel:i1_1212 Channel",
+         "type" : "resources",
+         "uuid" : "1dad8a5f-ee78-4d87-be0b-48da1462a77e",
+         "version" : [ 3, 1, 0 ]
+      }
+   ]
+}
